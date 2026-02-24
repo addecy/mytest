@@ -15,3 +15,5 @@ Fifth test commit with simple text message format for Feishu notification.
 Sixth test commit to verify complete update information in Feishu notification.
 
 Seventh test commit to verify beautiful message format with detailed information.
+
+Eighth test commit to verify fixed beautiful message format with PR link support.
